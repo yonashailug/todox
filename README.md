@@ -2,6 +2,7 @@
 
 Simple todo app with react and firebase. It's under work in progress.
 You can drag and drop the todos/tasks into the tag sections.
+See screenshot below.
 
 ### `npm start`
 
