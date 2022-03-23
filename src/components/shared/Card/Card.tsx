@@ -16,7 +16,7 @@ function getStyles(
 ): CSSProperties {
   const transform = `translate2d(${left}px, ${top}px)`
   return {
-    position: 'absolute',
+    // position: 'absolute',
     transform,
     WebkitTransform: transform,
     opacity: isDragging ? 0 : 1,
@@ -46,7 +46,7 @@ const Card: React.FC<Task & { className?: string; status?: Status }> = ({
       style={getStyles(0, 0, isDragging)}
       ref={drag}
     >
-      <div className='card rounded-sm p-4 drop-shadow-2xl bg-white transition-all duration-100 select-none'>
+      <div className='card mb-4 rounded-sm p-4 drop-shadow-2xl bg-white transition-all duration-100 select-none'>
         <div className='flex items-center pb-4'>
           <p className='text-lg text-black'>{taskItem.getTitle}</p>
           <span className='ml-auto'>

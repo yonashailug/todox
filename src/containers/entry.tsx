@@ -30,6 +30,18 @@ const Entry: React.FC = () => {
             User.fromObject({ id: 2, name: 'Xz', email: 'xz@gmail.com' }),
           ],
         },
+        {
+          taskItem: TaskItem.fromObject({
+            id: 2,
+            title: 'Dev',
+            status: Status.todo,
+            hasAttachment: false,
+            body: `We need to update the software and release a major updates to all the services.`,
+          }),
+          members: [
+            User.fromObject({ id: 3, name: 'Aregawi', email: 'aregawi@gmail.com' }),
+          ],
+        },
       ])
     )
   }, [dispatch])

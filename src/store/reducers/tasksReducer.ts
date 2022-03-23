@@ -33,7 +33,7 @@ const tasksReducer = (
       const taskItem: any = action.payload
 
       return {
-        tasks: state.tasks.map((task: Task) => {
+        tasks: [...state.tasks].map((task: Task) => {
           if (task.taskItem.getId === taskItem.task.taskItem.getId) {
             task = {
               ...task,
