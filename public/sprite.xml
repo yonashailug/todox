@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="0" height="0" class="hidden" 
+    xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <symbol viewBox="0 0 6.35 7.938" id="arrow-down" 
+        xmlns="http://www.w3.org/2000/svg">
+        <path style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M3.17.526a.265.265 0 00-.26.268v4.125L.982 2.987a.265.265 0 00-.19-.08.265.265 0 00-.185.455l2.38 2.38a.265.265 0 00.25.071.265.265 0 00.025-.007.265.265 0 00.025-.01.265.265 0 00.023-.012.265.265 0 00.002-.001.265.265 0 00.02-.013.265.265 0 00.017-.014.265.265 0 00.004-.004.265.265 0 00.01-.01l.009-.009 2.372-2.372a.265.265 0 10-.373-.375l-1.93 1.93V.793a.265.265 0 00-.27-.268z" font-weight="400" font-family="sans-serif" overflow="visible"/>
+        <text y="21.35" font-size="5" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by Handicon</text>
+        <text y="26.35" font-size="5" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun Project</text>
+    </symbol>
+    <symbol viewBox="0 0 6.35 7.938" id="arrow-up" 
+        xmlns="http://www.w3.org/2000/svg">
+        <path style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M3.17.526a.265.265 0 00-.205.104L.605 2.987a.265.265 0 00.376.375L2.91 1.43v4.125a.265.265 0 10.53 0V1.433L5.37 3.362a.265.265 0 10.373-.375L3.383.628A.265.265 0 003.17.526z" font-weight="400" font-family="sans-serif" overflow="visible"/>
+        <text y="21.35" font-size="5" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">Created by Handicon</text>
+        <text y="26.35" font-size="5" font-weight="bold" font-family="'Helvetica Neue', Helvetica, Arial-Unicode, Arial, Sans-serif">from the Noun Project</text>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="board">
+        <g fill="currentColor">
+            <path d="M4 18h16.008C20 18 20 6 20 6H3.992C4 6 4 18 4 18zM2 5.994C2 4.893 2.898 4 3.99 4h16.02C21.108 4 22 4.895 22 5.994v12.012A1.997 1.997 0 0120.01 20H3.99A1.994 1.994 0 012 18.006V5.994z"/>
+            <path d="M8 6v12h2V6zm6 0v12h2V6z"/>
+        </g>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="chevron-down">
+        <path d="M8.292 10.293a1.009 1.009 0 000 1.419l2.939 2.965c.218.215.5.322.779.322s.556-.107.769-.322l2.93-2.955a1.01 1.01 0 000-1.419.987.987 0 00-1.406 0l-2.298 2.317-2.307-2.327a.99.99 0 00-1.406 0z" fill="currentColor" fill-rule="evenodd"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="chevron-left">
+        <path d="M13.706 9.698a.988.988 0 000-1.407 1.01 1.01 0 00-1.419 0l-2.965 2.94a1.09 1.09 0 000 1.548l2.955 2.93a1.01 1.01 0 001.42 0 .988.988 0 000-1.407l-2.318-2.297 2.327-2.307z" fill="currentColor" fill-rule="evenodd"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="chevron-right">
+        <path d="M10.294 9.698a.988.988 0 010-1.407 1.01 1.01 0 011.419 0l2.965 2.94a1.09 1.09 0 010 1.548l-2.955 2.93a1.01 1.01 0 01-1.42 0 .988.988 0 010-1.407l2.318-2.297-2.327-2.307z" fill="currentColor" fill-rule="evenodd"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="cog">
+        <path d="M11.701 16.7a5.002 5.002 0 110-10.003 5.002 5.002 0 010 10.004m8.368-3.117a1.995 1.995 0 01-1.346-1.885c0-.876.563-1.613 1.345-1.885a.48.48 0 00.315-.574 8.947 8.947 0 00-.836-1.993.477.477 0 00-.598-.195 2.04 2.04 0 01-1.29.08 1.988 1.988 0 01-1.404-1.395 2.04 2.04 0 01.076-1.297.478.478 0 00-.196-.597 8.98 8.98 0 00-1.975-.826.479.479 0 00-.574.314 1.995 1.995 0 01-1.885 1.346 1.994 1.994 0 01-1.884-1.345.482.482 0 00-.575-.315c-.708.2-1.379.485-2.004.842a.47.47 0 00-.198.582A2.002 2.002 0 014.445 7.06a.478.478 0 00-.595.196 8.946 8.946 0 00-.833 1.994.48.48 0 00.308.572 1.995 1.995 0 011.323 1.877c0 .867-.552 1.599-1.324 1.877a.479.479 0 00-.308.57 8.99 8.99 0 00.723 1.79.477.477 0 00.624.194c.595-.273 1.343-.264 2.104.238.117.077.225.185.302.3.527.8.512 1.58.198 2.188a.473.473 0 00.168.628 8.946 8.946 0 002.11.897.474.474 0 00.57-.313 1.995 1.995 0 011.886-1.353c.878 0 1.618.567 1.887 1.353a.475.475 0 00.57.313 8.964 8.964 0 002.084-.883.473.473 0 00.167-.631c-.318-.608-.337-1.393.191-2.195.077-.116.185-.225.302-.302.772-.511 1.527-.513 2.125-.23a.477.477 0 00.628-.19 8.925 8.925 0 00.728-1.793.478.478 0 00-.314-.573" fill="currentColor" fill-rule="evenodd"/>
+    </symbol>
+    <symbol viewBox="0 0 24 24" id="component">
+        <g fill="currentColor" fill-rule="evenodd">
+            <path d="M5 17.991c0 .007 14.005.009 14.005.009-.006 0-.005-7.991-.005-7.991C19 10.002 4.995 10 4.995 10 5.001 10 5 17.991 5 17.991zM3 10.01C3 8.899 3.893 8 4.995 8h14.01C20.107 8 21 8.902 21 10.009v7.982c0 1.11-.893 2.009-1.995 2.009H4.995A2.004 2.004 0 013 17.991V10.01z"/>
+            <path d="M7 8.335c0-.002 2.002-.002 2.002-.002C9 8.333 9 6.665 9 6.665c0 .002-2.002.002-2.002.002C7 6.667 7 8.335 7 8.335zm-2-1.67C5 5.745 5.898 5 6.998 5h2.004C10.106 5 11 5.749 11 6.665v1.67C11 9.255 10.102 10 9.002 10H6.998C5.894 10 5 9.251 5 8.335v-1.67zm10 1.67c0-.002 2.002-.002 2.002-.002C17 8.333 17 6.665 17 6.665c0 .002-2.002.002-2.002.002.002 0 .002 1.668.002 1.668zm-2-1.67C13 5.745 13.898 5 14.998 5h2.004C18.106 5 19 5.749 19 6.665v1.67c0 .92-.898 1.665-1.998 1.665h-2.004C13.894 10 13 9.251 13 8.335v-1.67z"/>
+        </g>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="filters">
+        <g fill="currentColor" fill-rule="evenodd">
+            <path d="M5 12.991c0 .007 14.005.009 14.005.009C18.999 13 19 5.009 19 5.009 19 5.002 4.995 5 4.995 5 5.001 5 5 12.991 5 12.991zM3 5.01C3 3.899 3.893 3 4.995 3h14.01C20.107 3 21 3.902 21 5.009v7.982c0 1.11-.893 2.009-1.995 2.009H4.995A2.004 2.004 0 013 12.991V5.01zM19 19c-.005 1.105-.9 2-2.006 2H7.006A2.009 2.009 0 015 19h14zm1-3a2.002 2.002 0 01-1.994 2H5.994A2.003 2.003 0 014 16h16z" fill-rule="nonzero"/>
+            <path d="M10.674 11.331c.36.36.941.36 1.3 0l2.758-2.763a.92.92 0 00-1.301-1.298l-2.108 2.11-.755-.754a.92.92 0 00-1.3 1.3l1.406 1.405z"/>
+        </g>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="github">
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12.026,2c-5.509,0-9.974,4.465-9.974,9.974c0,4.406,2.857,8.145,6.821,9.465	c0.499,0.09,0.679-0.217,0.679-0.481c0-0.237-0.008-0.865-0.011-1.696c-2.775,0.602-3.361-1.338-3.361-1.338	c-0.452-1.152-1.107-1.459-1.107-1.459c-0.905-0.619,0.069-0.605,0.069-0.605c1.002,0.07,1.527,1.028,1.527,1.028	c0.89,1.524,2.336,1.084,2.902,0.829c0.091-0.645,0.351-1.085,0.635-1.334c-2.214-0.251-4.542-1.107-4.542-4.93	c0-1.087,0.389-1.979,1.024-2.675c-0.101-0.253-0.446-1.268,0.099-2.64c0,0,0.837-0.269,2.742,1.021	c0.798-0.221,1.649-0.332,2.496-0.336c0.849,0.004,1.701,0.115,2.496,0.336c1.906-1.291,2.742-1.021,2.742-1.021	c0.545,1.372,0.203,2.387,0.099,2.64c0.64,0.696,1.024,1.587,1.024,2.675c0,3.833-2.33,4.675-4.552,4.922	c0.355,0.308,0.675,0.916,0.675,1.846c0,1.334-0.012,2.41-0.012,2.737c0,0.267,0.178,0.577,0.687,0.479	C19.146,20.115,22,16.379,22,11.974C22,6.465,17.535,2,12.026,2z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="link">
+        <g fill="currentColor" fill-rule="evenodd">
+            <path d="M12.856 5.457l-.937.92a1.002 1.002 0 000 1.437 1.047 1.047 0 001.463 0l.984-.966c.967-.95 2.542-1.135 3.602-.288a2.54 2.54 0 01.203 3.81l-2.903 2.852a2.646 2.646 0 01-3.696 0l-1.11-1.09L9 13.57l1.108 1.089c1.822 1.788 4.802 1.788 6.622 0l2.905-2.852a4.558 4.558 0 00-.357-6.82c-1.893-1.517-4.695-1.226-6.422.47"/>
+            <path d="M11.144 19.543l.937-.92a1.002 1.002 0 000-1.437 1.047 1.047 0 00-1.462 0l-.985.966c-.967.95-2.542 1.135-3.602.288a2.54 2.54 0 01-.203-3.81l2.903-2.852a2.646 2.646 0 013.696 0l1.11 1.09L15 11.43l-1.108-1.089c-1.822-1.788-4.802-1.788-6.622 0l-2.905 2.852a4.558 4.558 0 00.357 6.82c1.893 1.517 4.695 1.226 6.422-.47"/>
+        </g>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="plus">
+        <path d="M13 11V3.993A.997.997 0 0012 3c-.556 0-1 .445-1 .993V11H3.993A.997.997 0 003 12c0 .557.445 1 .993 1H11v7.007c0 .548.448.993 1 .993.556 0 1-.445 1-.993V13h7.007A.997.997 0 0021 12c0-.556-.445-1-.993-1H13z" fill="currentColor" fill-rule="evenodd"/>
+    </symbol>
+
+
+    <symbol viewBox="0 0 24 24" id="search">
+        <path d="M16.436 15.085l3.94 4.01a1 1 0 01-1.425 1.402l-3.938-4.006a7.5 7.5 0 111.423-1.406zM10.5 16a5.5 5.5 0 100-11 5.5 5.5 0 000 11z" fill="currentColor" fill-rule="evenodd"/>
+    </symbol>
+
+    <symbol viewBox="0 0 16 16" id="story" 
+        xmlns="http://www.w3.org/2000/svg">
+        <g transform="translate(1 1)" fill="none" fill-rule="evenodd">
+            <rect fill="#63BA3C" width="14" height="14" rx="2"/>
+            <path d="M9 3H5a1 1 0 00-1 1v6.5a.5.5 0 00.5.5.49.49 0 00.41-.231l.004.001L6.84 8.54a.2.2 0 01.32 0l1.926 2.23.004-.001A.49.49 0 009.5 11a.5.5 0 00.5-.5V4a1 1 0 00-1-1" fill="#FFF"/>
+        </g>
+    </symbol>
+
+    <symbol viewBox="0 0 16 16" id="task" 
+        xmlns="http://www.w3.org/2000/svg">
+        <g transform="translate(1 1)" fill="none" fill-rule="evenodd">
+            <rect fill="#4BADE8" width="14" height="14" rx="2"/>
+            <path d="M6 9.5l4-5m-4 5l-2-2" stroke="#FFF" stroke-width="2" stroke-linecap="round"/>
+        </g>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="times">
+        <path d="M12 10.586L6.707 5.293a1 1 0 00-1.414 1.414L10.586 12l-5.293 5.293a1 1 0 001.414 1.414L12 13.414l5.293 5.293a1 1 0 001.414-1.414L13.414 12l5.293-5.293a1 1 0 10-1.414-1.414L12 10.586z" fill="currentColor"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="expand">
+        <path d="M21 15.344L18.879 17.465 15.707 14.293 14.293 15.707 17.465 18.879 15.344 21 21 21zM3 8.656L5.121 6.535 8.293 9.707 9.707 8.293 6.535 5.121 8.656 3 3 3zM21 3L15.344 3 17.465 5.121 14.293 8.293 15.707 9.707 18.879 6.535 21 8.656zM3 21L8.656 21 6.535 18.879 9.707 15.707 8.293 14.293 5.121 17.465 3 15.344z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="trash" 
+        xmlns="http://www.w3.org/2000/svg">
+        <path fill="none" d="M17.004 20l-.001-12h-10v12h10.001zm-4.001-10h2v8h-2v-8zm-4 0h2v8h-2v-8zm0-6h6v2h-6z"/>
+        <path d="M5.003 20c0 1.103.897 2 2 2h10c1.103 0 2-.897 2-2V8h2V6h-4V4c0-1.103-.897-2-2-2h-6c-1.103 0-2 .897-2 2v2h-4v2h2v12zm4-16h6v2h-6V4zm-1 4h9l.001 12H7.003V8h1z"/>
+        <path d="M9.003 10h2v8h-2zm4 0h2v8h-2z"/>
+    </symbol>
+
+    <symbol viewBox="0 0 24 24" id="spin" 
+        xmlns="http://www.w3.org/2000/svg">
+
+        <path d="M12,22c5.421,0,10-4.579,10-10h-2c0,4.337-3.663,8-8,8s-8-3.663-8-8c0-4.336,3.663-8,8-8V2C6.579,2,2,6.58,2,12 C2,17.421,6.579,22,12,22z"/>
+    </symbol>
+</svg>

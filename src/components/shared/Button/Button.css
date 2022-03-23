@@ -1,0 +1,50 @@
+.primary,
+.success,
+.danger,
+.info,
+.warning {
+  color: white;
+  font-weight: 500;
+  background: var(--bg-variant);
+}
+
+.secondary {
+  background: var(--bg-variant);
+}
+.empty {
+  background: #fff;
+  outline: none;
+}
+.transparent {
+  background: none;
+  outline: none;
+}
+.secondary,
+.empty {
+  font-weight: normal;
+  color: #42526E;
+}
+.secondary:not(:disabled):hover,
+.empty:not(:disabled):hover {
+  background: bg-backgroundLight;
+}
+.secondary:not(:disabled):active,
+.empty:not(:disabled):active {
+    background-color: #D2E5FE;
+    color: var(--primary);
+}
+
+.button:disabled {
+  opacity: 0.5;
+  cursor: pointer;
+  pointer-events: none;
+}
+.secondary:not(:disabled):hover,
+.empty:not(:disabled):hover {
+    background-color: #ebecf0;
+}
+.secondary:not(:disabled):active,
+.empty:not(:disabled):active {
+  background-color: #D2E5FE;;
+  color: var(--primary);
+}

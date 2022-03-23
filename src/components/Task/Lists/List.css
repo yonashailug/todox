@@ -1,0 +1,22 @@
+.list {
+  width: calc(100% / 4 - 8px);
+  min-height: 400px;
+  min-width: 200px;
+}
+
+.card-drag {
+  transition: transform 0.18s ease;
+  transform: rotateZ(5deg);
+  opacity: 1;
+}
+
+.card-list-drop {
+  transition: transform 0.18s ease-in-out;
+  transform: rotateZ(0deg);
+}
+
+.drop-preview {
+  background-color: rgba(150, 150, 200, 0.1);
+  border: 1px dashed #abc;
+  margin: 5px;
+}
