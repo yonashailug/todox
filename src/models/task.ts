@@ -8,16 +8,16 @@ export enum Status {
 export class TaskItem {
   static EMPTY_TASKITEM = new TaskItem()
 
-  private id: number = 0
+  private id: string = ''
   private title: string = ''
   private body: string = ''
   private hasAttachment: boolean = false
   private status: Status = Status.todo
 
-  get getId(): number {
+  get getId(): string {
     return this.id
   }
-  set setId(value: number) {
+  set setId(value: string) {
     this.id = value
   }
 
