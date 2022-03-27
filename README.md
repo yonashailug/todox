@@ -1,6 +1,6 @@
 # Todo App
 
-Simple todo app with react and firebase. It's under work in progress.
+Simple todo app with React(Typescript) and firebase. It's under work in progress.
 You can drag and drop the todos/tasks into the tag sections.
 See screenshot below.
 
