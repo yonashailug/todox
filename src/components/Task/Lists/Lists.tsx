@@ -1,9 +1,11 @@
 import { useState } from 'react'
 import { useDispatch } from 'react-redux'
+
 import { Task } from '../../../interfaces'
 import { Status } from '../../../models/task'
 import { updateTaskAction } from '../../../store/action'
 import { AppDispatch } from '../../../store/store'
+import CustomDragLayer from '../CustomDragLayer'
 import List from './List'
 
 const Lists: React.FC<any> = () => {
@@ -19,7 +21,8 @@ const Lists: React.FC<any> = () => {
   }
 
   return (
-    <div className='flex container mt-7 justify-center'>
+    <div className='flex container mt-7 justify-center relative'>
+      <CustomDragLayer />
       {statuses.map((status: Status, index: number) => (
         <List key={index} status={status} onDrop={handleDispatch} />
       ))}

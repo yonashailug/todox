@@ -17,6 +17,7 @@
 
 .drop-preview {
   background-color: rgba(150, 150, 200, 0.1);
+  /* height: 300px; */
   border: 1px dashed #abc;
   margin: 5px;
 }

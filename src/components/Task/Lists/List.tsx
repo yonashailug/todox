@@ -7,6 +7,7 @@ import { Status } from '../../../models/task'
 import { RootState } from '../../../store/store'
 import Button from '../../shared/Button/Button'
 import Card from '../../shared/Card/Card'
+import DraggableCard from '../../shared/Card/DraggableCard'
 import './List.css'
 
 type Props = {
@@ -28,7 +29,7 @@ const List: React.FC<
     setFilteredTasks(filterTasks(tasks, status))
   }, [status, tasks])
 
-  const handleClick = (evt: React.MouseEvent<HTMLButtonElement>) => {
+  const handleAddTask = (evt: React.MouseEvent<HTMLButtonElement>) => {
     console.log(evt)
   }
 
@@ -50,21 +51,21 @@ const List: React.FC<
           {filteredTasks?.length}
         </div>
       </div>
-      {/* <div className='mb-4 w-full'>
+      <div className='mb-4 w-full'>
         <Button
           className='w-full'
           icon='plus'
           variant='secondary'
           iconSize={18}
-          onClick={handleClick}
+          onClick={handleAddTask}
         />
-      </div> */}
+      </div>
       <div className='h-full px-2 w-full relative' ref={drop}>
         {filteredTasks.map((task: Task, index: number) => (
-          <Card
+          <DraggableCard
             key={index}
             taskItem={task.taskItem}
-            status={status}
+            // status={status}
             className={isOver ? 'card-list-drop drop-preview' : ''}
             members={task.members}
           />

@@ -31,6 +31,7 @@ export class TaskItem {
   get getBody(): string {
     return this.body
   }
+  
   set setBody(value: string) {
     this.body = value
   }
@@ -38,6 +39,7 @@ export class TaskItem {
   get getHasAttachment(): boolean {
     return this.hasAttachment
   }
+
   set setHasAttachment(value: boolean) {
     this.hasAttachment = value
   }
